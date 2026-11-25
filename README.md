@@ -1,31 +1,33 @@
 # Carlos Eduardo Magalhães
 
-Data engineer. Pipelines, warehouses and the infrastructure that keeps them alive — Airflow, dbt, BigQuery, Kubernetes.
+Data engineer working with Airflow, dbt, BigQuery, and Kubernetes. Tech lead at [Retize](https://github.com/retize-io), where I help shape the technology, timelines, and engineering structure.
 
-Head of engineering at [Retize](https://retize.com), working on sports fan data: the CDP, the analytics, and the platform underneath. I also teach data engineering at [Alura](https://www.alura.com.br).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg">
+  <img alt="Carlos Magalhães — data engineer and tech lead" src="profile-card-light.svg">
+</picture>
 
 ## Projects
 
-**[kuno](https://github.com/1cadumagalhaes/kuno)** — a terminal UI for Kubernetes. Finding a resource, tailing its logs, reading a manifest or describe output, checking events. Keyboard-driven, fast.
-
-```sh
-uv tool install kuno
-```
+**[kuno](https://github.com/1cadumagalhaes/kuno)** — a terminal UI for Kubernetes. Find resources, tail logs, read manifests and describe output, and check events. Keyboard-driven.
 
 **[airsql](https://github.com/1cadumagalhaes/airsql)** — decorator-based SQL execution for Apache Airflow. A DAG task is a Python function, with the SQL inside it.
 
-```sh
-pip install airsql
-```
+## Consulting
 
-**[airflow_docker_compose](https://github.com/1cadumagalhaes/airflow_docker_compose)** — learning Airflow 3 with Docker Compose, step by step.
+Independent consulting across data engineering, applications and internal tools, analytics and measurement, cloud and optimization, and ML/MLOps. I also offer workshops and team training.
 
-On the side: a new version of minegamerer, and a game called loosequiver.
+[Discuss a project on LinkedIn](https://linkedin.com/in/1cadumagalhaes).
+
+## Teaching
+
+I teach data engineering at Alura.
 
 ## Writing
 
-I write about Airflow internals, data platforms and the things I had to debug to make them work — at [blog.cadumagalhaes.dev](https://blog.cadumagalhaes.dev).
+I write at [blog.cadumagalhaes.dev](https://blog.cadumagalhaes.dev) — whatever has my attention at the time, usually something technical.
 
 ## Elsewhere
 
-[site](https://cadumagalhaes.dev) · [X](https://x.com/1cadumagalhaes) · [contact@cadumagalhaes.dev](mailto:contact@cadumagalhaes.dev)
+[Portfolio](https://cadumagalhaes.dev) · [LinkedIn](https://linkedin.com/in/1cadumagalhaes)
