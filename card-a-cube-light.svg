@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="828" height="330" viewBox="0 0 828 330" role="img">
+<rect width="828" height="330" rx="12" fill="#ffffff"/>
+<polygon points="136.9,47.4 167.9,65.3 136.9,83.3 105.8,65.3" fill="#8b949e"/>
+<polygon points="173.8,68.7 204.8,86.7 173.8,104.6 142.8,86.7" fill="#d0d7de"/>
+<polygon points="210.8,90.1 241.8,108.0 210.8,125.9 179.7,108.0" fill="#8b949e"/>
+<polygon points="99.9,68.7 130.9,86.7 99.9,104.6 68.9,86.7" fill="#4b5563"/>
+<polygon points="136.9,90.1 167.9,108.0 136.9,125.9 105.8,108.0" fill="#d0d7de"/>
+<polygon points="173.8,111.4 204.8,129.3 173.8,147.3 142.8,129.3" fill="#d0d7de"/>
+<polygon points="63.0,90.1 94.0,108.0 63.0,125.9 31.9,108.0" fill="#4b5563"/>
+<polygon points="99.9,111.4 130.9,129.3 99.9,147.3 68.9,129.3" fill="#d0d7de"/>
+<polygon points="136.9,132.7 167.9,150.7 136.9,168.6 105.8,150.7" fill="#8b949e"/>
+<polygon points="29.0,113.1 60.0,131.0 60.0,166.9 29.0,149.0" fill="#0969da"/>
+<polygon points="65.9,134.5 96.9,152.4 96.9,188.2 65.9,170.3" fill="#0969da"/>
+<polygon points="102.9,155.8 133.9,173.7 133.9,209.5 102.9,191.6" fill="#0969da"/>
+<polygon points="29.0,155.8 60.0,173.7 60.0,209.5 29.0,191.6" fill="#0969da"/>
+<polygon points="65.9,177.1 96.9,195.0 96.9,230.9 65.9,213.0" fill="#4b5563"/>
+<polygon points="102.9,198.5 133.9,216.4 133.9,252.2 102.9,234.3" fill="#d0d7de"/>
+<polygon points="29.0,198.5 60.0,216.4 60.0,252.2 29.0,234.3" fill="#0969da"/>
+<polygon points="65.9,219.8 96.9,237.7 96.9,273.5 65.9,255.6" fill="#0969da"/>
+<polygon points="102.9,241.1 133.9,259.0 133.9,294.9 102.9,277.0" fill="#0969da"/>
+<polygon points="244.7,113.1 213.7,131.0 213.7,166.9 244.7,149.0" fill="#0969da"/>
+<polygon points="207.8,134.5 176.8,152.4 176.8,188.2 207.8,170.3" fill="#4b5563"/>
+<polygon points="170.8,155.8 139.8,173.7 139.8,209.5 170.8,191.6" fill="#0969da"/>
+<polygon points="244.7,155.8 213.7,173.7 213.7,209.5 244.7,191.6" fill="#0969da"/>
+<polygon points="207.8,177.1 176.8,195.0 176.8,230.9 207.8,213.0" fill="#0969da"/>
+<polygon points="170.8,198.5 139.8,216.4 139.8,252.2 170.8,234.3" fill="#0969da"/>
+<polygon points="244.7,198.5 213.7,216.4 213.7,252.2 244.7,234.3" fill="#0969da"/>
+<polygon points="207.8,219.8 176.8,237.7 176.8,273.5 207.8,255.6" fill="#d0d7de"/>
+<polygon points="170.8,241.1 139.8,259.0 139.8,294.9 170.8,277.0" fill="#0969da"/>
+<text x="344" y="115" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#1a7f37">carlos@magalhaes</text>
+<text x="344" y="135" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="11" fill="#8b949e">------------------------------------</text>
+<text x="344" y="161" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.2" xml:space="preserve"><tspan fill="#1a7f37">role</tspan><tspan fill="#4b5563"> ....... </tspan><tspan fill="#1f2328">data engineer · tech lead @ retize</tspan></text>
+<text x="344" y="186" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.2" xml:space="preserve"><tspan fill="#1a7f37">stack</tspan><tspan fill="#4b5563"> ...... </tspan><tspan fill="#1f2328">airflow · dbt · bigquery · k8s · python</tspan></text>
+<text x="344" y="211" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.2" xml:space="preserve"><tspan fill="#1a7f37">portfolio</tspan><tspan fill="#4b5563"> .. </tspan><tspan fill="#1f2328">cadumagalhaes.dev</tspan></text>
+<text x="344" y="236" font-family="Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.2" xml:space="preserve"><tspan fill="#1a7f37">contributions</tspan><tspan fill="#4b5563"> .. </tspan><tspan fill="#1f2328">3,682</tspan></text>
+</svg>
