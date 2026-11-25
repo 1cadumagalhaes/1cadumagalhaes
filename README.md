@@ -1,12 +1,10 @@
-# Carlos Eduardo Magalhães
-
-Data engineer working with Airflow, dbt, BigQuery, and Kubernetes. Tech lead at [Retize](https://github.com/retize-io), where I help shape the technology, timelines, and engineering structure.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg">
-  <img alt="Carlos Magalhães — data engineer and tech lead" src="profile-card-light.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-card-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="profile-card-light.svg">
+    <img alt="Carlos Magalhães — data engineer and tech lead" src="profile-card-light.svg">
+  </picture>
+</p>
 
 ## Projects
 
